@@ -1,0 +1,3 @@
+C:\Users\pc\Desktop\.NET\GIt Repository\QoutientRemainder\QoutientRemainder\obj\Debug\QoutientRemainder.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\.NET\GIt Repository\QoutientRemainder\QoutientRemainder\obj\Debug\QoutientRemainder.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\.NET\GIt Repository\QoutientRemainder\QoutientRemainder\obj\Debug\QoutientRemainder.csproj.CoreCompileInputs.cache
